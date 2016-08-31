@@ -1,0 +1,24 @@
+p {
+	color: grey;
+	font: italic bold 10px serif;
+	font-family: 'Pacifico', cursive;
+
+}
+
+h1 {
+	color: #fff;
+	background-color: #333;
+}
+
+a {
+	color: orange;
+}
+
+p em {
+	color: yellow;
+}
+
+ol li {
+	color: #A11E6E;
+	font: italic 15px serif;
+}
